@@ -1,4 +1,4 @@
-module jitter-mouse
+module github.com/konamata/jitter-mouse
 
 go 1.23.4
 
